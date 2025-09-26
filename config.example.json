@@ -1,0 +1,16 @@
+{
+  "ssh": {
+    "host": "your-remote-server.com",
+    "user": "your-username",
+    "key_path": "/path/to/your/private/ssh/key",
+    "port": 22
+  },
+  "remote": {
+    "working_dir": "/home/your-username/claude-workspace",
+    "claude_code_path": "claude"
+  },
+  "server": {
+    "name": "remote-claude-mcp",
+    "version": "0.1.0"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "remote-claude": {
+      "command": "/path/to/remote-claude-mcp",
+      "args": ["/path/to/your/config.json"],
+      "env": {}
+    }
+  }
+}
